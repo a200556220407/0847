@@ -1,0 +1,9 @@
+/work/*
+/mcs/*
+/src/ip/fifo_generator_0/*
+!/src/ip/fifo_generator_0/*.xml
+/src/ip/ila_2/*
+!/src/ip/ila_2/*.xml
+
+
+
